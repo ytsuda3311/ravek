@@ -1432,7 +1432,7 @@ tr:first-child th:first-child {
   }
 }
 
-tr {
+table {
   position: relative;
 }
 
